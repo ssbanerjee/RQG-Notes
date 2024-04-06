@@ -1,0 +1,3 @@
+The Fourth Age, more commonly known as Severance, or Post Severance by the people, where the lands of Brao’Drana that were once shaped by might and magic have reformed and are once again ruled by power alone after the gods [[The War of the Ancients|ripped apart the weave]]. The iron contract, now broken, created a vacuum of power which called forth the darkest aspects of the mortal races as conflict engulfed this [[The New World Rises|new world]]. 
+
+#lore/overview 

@@ -1,0 +1,3 @@
+While not a formally recognized guild of Vahlenar, the Grand Engineers Guild is a group that likes to make things go boom. No magic, no problem! These ingenious tinkerers, artificers, and inventors have put their minds to the task of creating and designing whatever you may need to bring flame and ruin to your enemies. While their goods and services are highly sought after the price is steep for their wares. Many who seek them out end up tied to long contracts in an attempt to pay off the guild for their service.
+
+#Vahlenar/factions

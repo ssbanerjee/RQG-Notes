@@ -1,0 +1,3 @@
+The death of Mizzerene the Black Rose and the forging of the Iron Contract between the leaders of Kareborum led to the gods losing faith in their creations. The lasting peace of the world was shattered as the gods waged war with one another, the titans, the elemental lords, and the metallic dragon lords. Many mortal races suffered as these cosmological beings [[The War of the Ancients|waged battle through the material plane and beyond]].
+
+#lore/overview

@@ -1,0 +1,3 @@
+Many of the dragons of Brao’Drana were killed during the war of the ancients. However, the culling of the metallic flights led to the rise of the chromatic flights, and a new peril now faces the world. These dragons are extensions and personifications of the evil and dark forces of the world. The few metallic dragons left in the world have retreated into hiding, many taking their human forms, in order to help the mortal races as they face this new more powerful evil.
+
+#lore/Gods

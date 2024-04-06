@@ -1,0 +1,3 @@
+It is said that the sigh of the wind and the rustle of leaves are the nameless gods speaking back to worshippers. Worshippers of the nameless gods believe that no man can tell a lie in front of the ancient trees, as the nameless gods know when men are telling a lie. Through the eyes of the ancient trees the old gods judge the people in front of them. As such, an oath might be made in front of an ancient tree or with a hand placed on the surface  of an ancient tree. 
+
+#lore/Gods

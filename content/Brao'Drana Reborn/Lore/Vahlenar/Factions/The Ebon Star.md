@@ -1,0 +1,3 @@
+A group of powerful warlocks that seeks to rip magic from the hands of the gods and return it to the material plane by whatever means necessary. They work in secret dark places, seeking out the ancient relics of the age of arcana, and the rituals which might bring back their magical might. The order of warlocks makes pacts with the darkest of magical creatures in return for magical power and the ability to call forth the shadow from beyond.
+
+#Vahlenar/factions

@@ -1,0 +1,5 @@
+The **War of the Darkening** engulfed [[Vahlenar]] in chaos and bloodshed. The turning point came when a council of the wise from all races formed the [[Last Alliance]]. Led by a charismatic elven lord and a stalwart dwarf king, they united the free peoples of [[Vahlenar]] against [[Malgathor|Malgathor's]] dark hordes. The climactic [[Battle of Ardanath]] marked the end of the **War of the Darkening**, as [[Malgathor]] was defeated and sealed away in a prison of eternal darkness by the remaining Metallic Dragons.
+
+In the aftermath, [[Vahlenar]] entered an [[Age of Reconciliation]], where the races worked together to heal the scars of war and rebuild their civilizations. The [[Last Alliance]] became a symbol of unity and wisdom, guiding the continent into an era of prosperity and cultural exchange.
+
+#Vahlenar/events 

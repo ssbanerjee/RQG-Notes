@@ -1,0 +1,9 @@
+The war of the ancients raged for seven years and brought untold horrors to the material planes that plagued the common races of our world. Many heroes rose to protect these lands and insured the survival of the mortal races. A call to arms was sent out to the heroes of the third age to rise up against the gods but these heroes failed and ultimately were defeated.
+
+ In the end, the Nine were victorious, and were able to put their punitive vision into place. The Titans, now known as the Vanquished, were exiled to their planes and cut off from the material plane. The Metallic Dragon Lords were also banished, or killed, and the few that escaped the eyes of the gods went into hiding. Their final punishment was focused on the mortal beings of their world as retribution for sending the heroes of the age - wielders of the most powerful artifacts and magic the world has ever known - to overthrow the gods power. As punishment, the gods ripped the weave - the source of magical power - from the world and left the mortal races in a new dark age. The age of arcane knowledge, and magical discovery, was over.
+
+The damage done to the world as the weave was ripped from the material plane shattered the continents and completely reshaped the land. Oceans rose, and empires fell, as the lands of ancient myth and legend sank beneath the waves and new land rose from the depths. The world created in the image of the Titans, the Dragons, and the gods, has forever been lost to time. Brao’Drana is reborn.
+
+Thus begins the fourth age, more commonly known as [[Severance]], or Post Severance by the people, where the lands of Brao’Drana that were once shaped by might and magic have reformed and are once again ruled by power alone. The iron contract, now broken, created a vacuum of power which called forth the darkest aspects of the mortal races as conflict engulfed this new world. 
+
+#lore/overview
