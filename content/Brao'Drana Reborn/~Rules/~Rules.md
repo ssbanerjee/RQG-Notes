@@ -1,5 +1,5 @@
 ---
-title: Common Rules
+title: ~Common Rules
 ---
 - [[Armor]]
 - [[Components]]

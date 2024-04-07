@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Brao'Drana Reborn",
+    pageTitle: "River Quest Games",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
