@@ -6,7 +6,7 @@ race: Human
 age: "36"
 affiliations:
   - None
-aliases:
+aliases: []
 ---
 ## Appearance
 ![[img-Anjali.jpg|400]] 

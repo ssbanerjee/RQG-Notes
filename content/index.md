@@ -11,7 +11,7 @@ Welcome to the campaign of [[Brao'Drana Reborn]], as we  journey through [[The N
 - [[Vino Vanguard]]
 - [[Lt. Buckminster Brusay d'Babincock]]
 - [[Dex Elderflower]]
-- [[Hatty Thornborn]]
+- [[Hattie Thornborn]]
 
 ##### Session Notes:
 - [[Session 1]]

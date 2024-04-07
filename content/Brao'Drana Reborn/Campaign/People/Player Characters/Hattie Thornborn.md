@@ -7,7 +7,7 @@ age:
 affiliations:
   - "[[The Long Patrol]]"
 aliases:
-  - Hatty
+  - Hattie
 ---
 ## Appearance
 ![[img-Hatty_Thornborn.png|400]]
