@@ -10,7 +10,7 @@ aliases:
   - Hattie
 ---
 ## Appearance
-![[img-Hatty_Thornborn.png|400]]
+![[img-Hattie_Thornborn.png|400]]
 - 4'
 - Fire red hair, down to feet
 - Sturdy build
