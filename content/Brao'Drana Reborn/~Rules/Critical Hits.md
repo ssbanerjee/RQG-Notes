@@ -1,0 +1,3 @@
+When you score a <font color=FF1493>**critical hit**</font>, you get to roll extra dice for the attack’s damage against the target. Roll all of the attack’s damage dice twice and add them together. Then add any relevant modifiers as normal. To speed up play, you can roll all the damage dice at once.
+
+For example, if you score a <font color=FF1493>**critical hit**</font> with a dagger, roll 2d4 for the damage, rather than 1d4, and then add your relevant ability modifier. If the attack involves other damage dice, such as from the rogue’s Sneak Attack feature, <font color=FF1493>**you roll those dice twice as well**</font>.

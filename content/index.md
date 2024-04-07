@@ -24,3 +24,7 @@ Welcome to the campaign of [[Brao'Drana Reborn]], as we  journey through [[The N
 - [[Session 8]]
 - Session 9 - SCHEDULED FOR 4/9/2024
 
+###### Helpful links
+- [[~Rules|Common Rules]]
+- [[Vahlenar Map|Map of Vahlenar]]
+![[public/Brao'Drana-Reborn/z_Images/Maps/Vahlenar.jpg|400]]

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a598e53869a8ff42","type":"text","text":"![[Armor]]","x":-720,"y":-300,"width":500,"height":540},
+		{"id":"40ec08680e7e5ec8","type":"text","text":"![[Ranged Attacks in Close Combat]]","x":-720,"y":260,"width":500,"height":440},
+		{"id":"2320022b56a8dcd9","type":"file","file":"content/Brao'Drana Reborn/~Rules/Status Conditions.md","x":340,"y":-300,"width":1040,"height":2660},
+		{"id":"079bd7209c672a16","type":"file","file":"content/Brao'Drana Reborn/~Rules/Components.md","x":-200,"y":-300,"width":520,"height":1080},
+		{"id":"9eb11e0828fe982a","type":"text","text":"![[Critical Hits]]","x":-720,"y":720,"width":500,"height":420},
+		{"id":"5096edaa1511228f","type":"text","text":"![[Cover]]","x":-720,"y":1160,"width":500,"height":270},
+		{"id":"a3ac093d43ceda30","type":"text","text":"![[Unseen Attackers and Targets]]","x":-720,"y":1440,"width":500,"height":480},
+		{"id":"9301c8080fc09694","x":-200,"y":840,"width":520,"height":820,"type":"file","file":"content/Brao'Drana Reborn/~Rules/Grappling.md"}
+	],
+	"edges":[]
+}

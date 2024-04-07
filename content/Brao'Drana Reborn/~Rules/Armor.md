@@ -1,0 +1,15 @@
+- Light Armor: Add <font color=228B22>**DEX**</font> to base AC of armor
+	- Padded
+	- Leather
+	- Studded Leather
+- Medium Armor: Add <font color=228B22>**DEX**</font> to base AC of armor (MAX +2)
+	- Hide
+	- Chain Shirt
+	- Scale Mail
+	- Breastplate
+	- Half Plate
+- Heavy Armor: No modification
+	- Ring Mail
+	- Chain Mail
+	- Splint
+	- Plate
