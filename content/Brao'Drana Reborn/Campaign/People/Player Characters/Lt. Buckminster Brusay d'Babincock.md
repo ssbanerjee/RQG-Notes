@@ -27,6 +27,16 @@ or
 ```
 ---
 
+| STR | DEX | CON | INT | WIS | CHA |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| +1  | +4  | +3  | +0  | -1  | +2  |
+
+| Passive Perception | Passive Investigation | Passive Insight |
+| :----------------: | :-------------------: | :-------------: |
+|         11         |          10           |        9        |
+
+---
+
 ## Description
 Half-Elf Ranger
 Little mustache, clean shaven otherwise

@@ -22,6 +22,16 @@ ai prompt
 ```
 ---
 
+| STR | DEX | CON | INT | WIS | CHA |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| +1  | +3  | +3  | +3  | +4  | +1  |
+
+| Passive Perception | Passive Investigation | Passive Insight |
+| :----------------: | :-------------------: | :-------------: |
+|         14         |          13           |       16        |
+
+---
+
 ## Description
 Former Long Patrol due to interests in the guards
 Obsessed with the Gods

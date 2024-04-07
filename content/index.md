@@ -4,7 +4,7 @@ title: Welcome, Adventurers!
 Welcome to the campaign of [[Brao'Drana Reborn]], as we  journey through [[The New World Rises|a new world]] that has been torn apart by the [[Severance]].
 
 ###### Current Players:
-- [[Anjali]]
+- [[Anjali#Description|Anjali]]
 - [[Sephirah Dieldiran]]
 - [[DaVinci]]
 - [[Occisus Verus Amare|Tacetus]]

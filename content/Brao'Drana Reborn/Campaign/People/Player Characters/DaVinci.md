@@ -22,6 +22,16 @@ ai prompt
 
 ---
 
+| STR | DEX | CON | INT | WIS | CHA |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| +3  | +1  | +3  | +1  | -1  | +2  |
+
+| Passive Perception | Passive Investigation | Passive Insight |
+| :----------------: | :-------------------: | :-------------: |
+|         11         |          11           |       11        |
+
+---
+
 ## Description
 Dwarven Paladin
 Long Patrol

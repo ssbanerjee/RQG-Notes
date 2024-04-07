@@ -21,6 +21,16 @@ ai prompt
 ```
 ---
 
+| STR | DEX | CON | INT | WIS | CHA |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|     |     |     |     |     |     |
+
+| Passive Perception | Passive Investigation | Passive Insight |
+| :----------------: | :-------------------: | :-------------: |
+|                    |                       |                 |
+
+---
+
 ## Description
 They/them, O' Magic One.
 Sorcerer, Wild magic

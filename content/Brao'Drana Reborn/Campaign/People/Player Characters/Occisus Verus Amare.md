@@ -17,6 +17,16 @@ ai prompt
 ```
 ---
 
+| STR | DEX | CON | INT | WIS | CHA |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| +4  | +1  | +4  | +0  | +2  | +4  |
+
+| Passive Perception | Passive Investigation | Passive Insight |
+| :----------------: | :-------------------: | :-------------: |
+|         12         |          10           |       14        |
+
+---
+
 ## Description
 The group only knows him as "Tacetus".
 Dwarvish Paladin.

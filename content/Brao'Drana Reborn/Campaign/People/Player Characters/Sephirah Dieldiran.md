@@ -22,6 +22,16 @@ ai prompt
 ```
 ---
 
+| STR | DEX | CON | INT | WIS | CHA |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| -1  | +3  | +2  | +1  | +1  | +3  |
+
+| Passive Perception | Passive Investigation | Passive Insight |
+| :----------------: | :-------------------: | :-------------: |
+|         13         |          11           |       11        |
+
+---
+
 ## Description
 Pure blood elf, Warlock
 Noble birth

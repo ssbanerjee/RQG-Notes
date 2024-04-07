@@ -23,6 +23,16 @@ ai prompt
 ```
 ---
 
+| STR | DEX | CON | INT | WIS | CHA |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|     |     |     |     |     |     |
+
+| Passive Perception | Passive Investigation | Passive Insight |
+| :----------------: | :-------------------: | :-------------: |
+|                    |                       |                 |
+
+---
+
 ## Description
 Dwarf Barbarian
 Got an attitude
