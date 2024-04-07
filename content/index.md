@@ -27,4 +27,3 @@ Welcome to the campaign of [[Brao'Drana Reborn]], as we  journey through [[The N
 ###### Helpful links
 - [[~Rules|Common Rules]]
 - [[Vahlenar Map|Map of Vahlenar]]
-![[Vahlenar.jpg|400]]
