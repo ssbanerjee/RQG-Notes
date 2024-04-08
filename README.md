@@ -1,18 +1,23 @@
-# Quartz v4
+# Brao'Drana Reborn
+The death of Mizzerene the Black Rose and the forging of the Iron Contract between the leaders of Kareborum led to the gods losing faith in their creations. The lasting peace of the world was shattered as the gods waged war with one another, the titans, the elemental lords, and the metallic dragon lords. Many mortal races suffered as these cosmological beings waged battle through the material plane and beyond.
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+The ripping of magic from the world left scars across the face of Brao’Drana and most importantly led to the creation of the four new continents: Kelios, Vahlenar, Hyboria, and Galinan A number of small islands also dot the seas of the world, each with its own unique culture, peoples, and landscapes to be discovered. Many of the races shaped by magic were lost to history, wiped from the face of Brao’Drana, potentially existing in other planes of reality.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Without magic on their side the mortal races are lost, and seek help wherever they can, with evil forces finding a foothold in lands once long forgotten…
+
+## River Quest Games
+<p align="center">
+    <img src="https://github.com/ssbanerjee/RQG-Notes/tree/v4/images/RQG_logo.png" />
+</p>
+RQG is a group of friends who enjoy role-playing and playing DnD (typically 5e).
+We get together on a fairly regular basis to experience the world of Brao'Drana, completely written by our DM. This repository is to host the Obsidian files used to keep track of the lore of the campaign and provide easy to consume notes.
+
+### Quartz
+This site is generated using Quartz v4. Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free. Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
 
 🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+[Join the Quartz Discord Community](https://discord.gg/cRFFHYye7t)
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+---
+#### p.s. This is my first time creating such a site, sorry it sucks.
