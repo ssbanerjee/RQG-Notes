@@ -12,6 +12,8 @@ Without magic on their side the mortal races are lost, and seek help wherever th
 RQG is a group of friends who enjoy role-playing and playing DnD (typically 5e).
 We get together on a fairly regular basis to experience the world of Brao'Drana, completely written by our DM. This repository is to host the Obsidian files used to keep track of the lore of the campaign and provide easy to consume notes.
 
+---
+
 ### Quartz
 This site is generated using Quartz v4. Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free. Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
 

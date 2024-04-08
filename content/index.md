@@ -8,7 +8,7 @@ Welcome to the campaign of [[Brao'Drana Reborn]], as we  journey through [[The N
 - ![[img-Sephira_Dieldiran.png|35]] [[Sephirah Dieldiran]]
 - ![[img-DaVinci.png|35]] [[DaVinci]]
 - ![[img-Tacetus.png|35]] [[Occisus Verus Amare|Tacetus]]
-- ![[img-Vino_Vanguard.png|35]] [[Vino Vanguard]]
+- ![[img-Vino_Vangard.png|35]] [[Vino Vangard]]
 - ![[img-Brusay.png|35]] [[Lt. Buckminster Brusay d'Babincock]]
 - ![[img-Dex_Elderflower.png|35]] [[Dex Elderflower]]
 - ![[img-Hattie_Thornborn.png|35]] [[Hattie Thornborn]]
