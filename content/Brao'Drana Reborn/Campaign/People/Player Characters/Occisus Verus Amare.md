@@ -9,7 +9,7 @@ aliases:
   - Tacetus
 ---
 ## Appearance
-![[img-Tacetus.png|400]]
+![[img-Tacetus.jpg]]
 ```
 ai prompt
 +:large dwarf, young male, massive hair, beard, black hair, full armor, half body

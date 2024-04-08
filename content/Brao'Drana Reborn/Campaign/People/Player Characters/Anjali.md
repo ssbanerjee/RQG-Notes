@@ -22,6 +22,7 @@ aliases: []
 |         21         |          14           |       16        |
 
 ---
+
 ## Description
 Extremely large for a human, Anjali is a hulking man with long, messy hair. He has a large body of an even mixture of fat and muscle, covered partly with a mixture of hide and leather armor, leaving most of his stomach exposed. Armed with a wooden shield and staff, he lacks the ability to shape shift into animals, unlike most druids.
 
