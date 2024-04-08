@@ -7,7 +7,7 @@ Without magic on their side the mortal races are lost, and seek help wherever th
 
 ## River Quest Games
 <p align="center">
-    <img src="https://github.com/ssbanerjee/RQG-Notes/tree/v4/images/RQG_logo.png" />
+    <img src="images/RQG_logo.png" width=400px />
 </p>
 RQG is a group of friends who enjoy role-playing and playing DnD (typically 5e).
 We get together on a fairly regular basis to experience the world of Brao'Drana, completely written by our DM. This repository is to host the Obsidian files used to keep track of the lore of the campaign and provide easy to consume notes.
