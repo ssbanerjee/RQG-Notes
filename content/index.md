@@ -22,7 +22,7 @@ Welcome to the campaign of [[Brao'Drana Reborn]], as we  journey through [[The N
 - [[Session 6]]
 - [[Session 7]]
 - [[Session 8]]
-- Session 9 - SCHEDULED FOR 4/9/2024
+- [[Session 9]]
 
 ###### Helpful links
 - [[~Rules|Common Rules]]

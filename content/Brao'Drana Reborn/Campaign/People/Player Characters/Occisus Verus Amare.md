@@ -10,11 +10,7 @@ aliases:
 ---
 ## Appearance
 ![[img-Tacetus.jpg]]
-```
-ai prompt
-+:large dwarf, young male, massive hair, beard, black hair, full armor, half body
--: bare skin
-```
+
 ---
 
 | STR | DEX | CON | INT | WIS | CHA |
