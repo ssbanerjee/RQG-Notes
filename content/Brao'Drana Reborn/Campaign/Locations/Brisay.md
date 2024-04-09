@@ -4,7 +4,6 @@ world: Brao'Drana
 campaign: Severance
 continent: "[[Vahlenar]]"
 ---
-
 ## Description
 
 Welcome to the picturesque fishing village of Brisay, nestled along the dazzling shores of Theron’s Strait. Brisay is a place where time seems to slow down, where yeommanship and tradition blend seamlessly with the ebb and flow of the tides. As you approach the village, the scent of saltwater and freshly caught fish fills the air, drawing you closer to its enchanting charm.
@@ -25,7 +24,7 @@ As night falls, the village takes on a surreal ambiance. Magical lanterns, shape
 Brisay, the fishing village of dreams, is a place where reality intertwines with natural wonder, and the rhythms of the sea weave an everlasting spell over all who visit, leaving them forever changed by the wonders they have witnessed.
 
 ---
-## Map
+## World Map
 
 ```leaflet
 id: map-Vahlenar
@@ -36,6 +35,21 @@ long: 85
 minZoom: 9
 maxZoom: 10
 defaultZoom: 10
+unit: miles
+scale: 1
+darkMode: false
+```
+
+## Town
+```leaflet
+id: map-Brisay
+image: [[map-Brisay.jpg]]
+height: 400px
+lat: 70
+long: 55
+minZoom: 8
+maxZoom: 10
+defaultZoom: 8
 unit: miles
 scale: 1
 darkMode: false
