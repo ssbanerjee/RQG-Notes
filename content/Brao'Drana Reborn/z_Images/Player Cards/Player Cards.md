@@ -22,9 +22,10 @@ image: [[img-Brusay.png]]
 layout: Player
 race: Half-elf
 alignment: Neutral
-class: Ranger 2
+class: Ranger 3
+subclass: Hunter
 ac: 15
-hp: 22
+hp: 31
 speed: 30 ft.
 stats: [12, 18, 16, 10, 9, 14]
 languages: Common, Dwarvish, Elvish, Goblin
