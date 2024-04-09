@@ -14,7 +14,7 @@ Capital city of [[The Kingdom of Tehlor]]
 
 ```leaflet
 id: map-Vahlenar
-image: [[Vahlenar.jpg]]
+image: [[map-Vahlenar.jpg]]
 height: 400px
 lat: 50
 long: 50

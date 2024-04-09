@@ -19,7 +19,7 @@ Just outside of town, there is a large tower called [[Temple of the Nine]].
 
 ```leaflet
 id: map-Vahlenar
-image: [[Vahlenar.jpg]]
+image: [[map-Vahlenar.jpg]]
 height: 400px
 lat: 37
 long: 60

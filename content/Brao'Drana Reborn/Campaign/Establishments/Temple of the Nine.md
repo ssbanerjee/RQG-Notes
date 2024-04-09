@@ -16,7 +16,7 @@ Taken care of by a religious group that still worship the [Nine], whose members 
 
 ```leaflet
 id: map-Vahlenar
-image: [[Vahlenar.jpg]]
+image: [[map-Vahlenar.jpg]]
 height: 400px
 lat: 50
 long: 50

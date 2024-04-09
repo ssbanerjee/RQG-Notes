@@ -13,7 +13,7 @@ Situated on the coast at the mouth of the Tyodan River, Whiteshore is a fortifie
 
 ```leaflet
 id: map-Vahlenar
-image: [[Vahlenar.jpg]]
+image: [[map-Vahlenar.jpg]]
 height: 400px
 lat: 41
 long: 81

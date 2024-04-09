@@ -13,7 +13,7 @@ The majestic Dwarven fortified city, carved into the heart of the towering mount
 
 ```leaflet
 id: map-Vahlenar
-image: [[Vahlenar.jpg]]
+image: [[map-Vahlenar.jpg]]
 height: 400px
 lat: 65
 long: 49

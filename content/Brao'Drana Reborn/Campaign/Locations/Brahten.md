@@ -17,7 +17,7 @@ The absence of magic necessitated the need for green technology, becoming a beac
 
 ```leaflet
 id: map-Vahlenar
-image: [[Vahlenar.jpg]]
+image: [[map-Vahlenar.jpg]]
 height: 400px
 lat: 51
 long: 52

@@ -14,7 +14,7 @@ The sight of colorful fishing boats bobbing gently in the harbor greets the eye.
 
 ```leaflet
 id: map-Vahlenar
-image: [[Vahlenar.jpg]]
+image: [[map-Vahlenar.jpg]]
 height: 400px
 lat: 30
 long: 66

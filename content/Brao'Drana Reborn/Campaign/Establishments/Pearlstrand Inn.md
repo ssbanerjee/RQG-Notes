@@ -14,7 +14,7 @@ In the heart of [[Brisay]], the **Pearlstrand Inn** stands tall and grand. Its
 
 ```leaflet
 id: map-Vahlenar
-image: [[Vahlenar.jpg]]
+image: [[map-Vahlenar.jpg]]
 height: 400px
 lat: 50
 long: 50

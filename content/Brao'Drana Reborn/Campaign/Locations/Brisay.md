@@ -29,7 +29,7 @@ Brisay, the fishing village of dreams, is a place where reality intertwines with
 
 ```leaflet
 id: map-Vahlenar
-image: [[Vahlenar.jpg]]
+image: [[map-Vahlenar.jpg]]
 height: 400px
 lat: 62
 long: 85

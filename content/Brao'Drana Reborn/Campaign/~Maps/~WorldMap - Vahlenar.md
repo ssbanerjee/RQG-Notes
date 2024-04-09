@@ -1,7 +1,7 @@
 
 ```leaflet
 id: map-Vahlenar
-image: [[Vahlenar.jpg]]
+image: [[map-Vahlenar.jpg]]
 height: 700px
 lat: 50
 long: 60

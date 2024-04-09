@@ -12,7 +12,7 @@ continent: "[[Vahlenar]]"
 
 ```leaflet
 id: map-Vahlenar
-image: [[Vahlenar.jpg]]
+image: [[map-Vahlenar.jpg]]
 height: 400px
 lat: 38
 long: 70
