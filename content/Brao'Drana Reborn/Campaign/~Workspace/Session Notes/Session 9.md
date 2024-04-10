@@ -66,7 +66,7 @@ Insignia: Gold wings, Brown mountains, Grey sword.
 [[Whispering Tides Inn]] owned by [[Elias Blackwater]]. Rumors; Whispers of Theron's Straight.
 [[Salty Mermaid Inn]] owned [[Leerial Windwhisper]].
 
-> [!Quote] "The tides will always listen to those who listen."
+> [!Quote] "The tides will always whisper to those who listen."
 > - Dockmaster
 
 ---
@@ -78,7 +78,7 @@ Hears someone approach, but pays them no mind.
 [[Vino Vangard|Vino]] approaches, consulting her [[Deck of Dynarths|cards]].
 [[Vino Vangard|Vino]] flips their [[Deck of Dynarths|cards]] as [[Anjali]] explains talks about the stars.
 
-> [!Important] Constellation: THE FUCKING IGAUANA (oroboros like)
+> [!Important] Constellation: THE FUCKING IGAUANA (ouroboros like)
 
 [[Vino Vangard|Vino]] says [[The Weaver]] guided her to [[Anjali]] and suggest they go to drink wine.
 [[Anjali]] doesn't even know what wine is, but agrees to go.
