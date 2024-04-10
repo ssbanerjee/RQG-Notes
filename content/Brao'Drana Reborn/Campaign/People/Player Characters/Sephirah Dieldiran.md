@@ -14,6 +14,9 @@ aliases:
 - Silver hair
 - Pale skin
 - 5'9"
+- Neutral tone clothes (whites, greys, silvers)
+- Holds a staff.
+- Wears a large rough stone that glows purple
 
 ```
 ai prompt
@@ -37,7 +40,8 @@ Pure blood elf, Warlock
 Noble birth
 
 ###### Key Notes:
-- 
+- Likes people watching
+- Frequents in gossip
 
 ###### Strengths:
 - 

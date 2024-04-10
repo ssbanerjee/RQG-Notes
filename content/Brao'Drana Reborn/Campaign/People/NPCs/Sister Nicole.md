@@ -2,17 +2,18 @@
 type: Character
 world: Brao'Drana
 campaign: Severance
-race: Gnome
+race: 
 age: 
 affiliations:
-  - Thorn & Petal
-god: 
+  - "[[Temple on a Hill]]"
 aliases:
 ---
-
 ## Appearance
 
 
 ---
 
 ## Description
+
+
+First appears in [[Session 9]]

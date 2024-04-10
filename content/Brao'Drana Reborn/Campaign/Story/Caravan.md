@@ -11,7 +11,10 @@ And is guarded by the following two recruits of the Long Patrol:
 - [[Eugene Marchent]]
 - [[Kira]]
 
-Unfortunately, due to rash decisions made to enter a goblin camp unprepared, the majority of the caravan have died in battle[^2]. This has led to great complains with the Long Patrol on assigning irresponsible recruits as guards for civilians with no senior authority for backup[^3].
+> [!Warning] Unfortunately, due to rash decisions made to enter a goblin camp unprepared, the majority of the caravan have died in battle.
+> This has led to great complains with the Long Patrol on assigning irresponsible recruits as guards for civilians with no senior authority for backup.
+
+[^2]
 
 [^1]: [[Session 1]]
 [^2]: [[Session 8]], [[B04 - Goblin Camp]]

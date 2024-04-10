@@ -37,17 +37,19 @@ ai prompt
 Former Long Patrol soldier.
 Removed due to her... let's call it interest... in the gods. All the gods.  
   
-Married to her **Deck of Dynarths**, some may call her paranoid.
+Married to her [[Deck of Dynarths]], some may call her paranoid.
 But, she simply sees the work of the Gods in any and all things.
 Earned her nickname because she's usually first in line for battle or at the bar.  
   
 Raised by her hard working parents who encouraged her commitment to reading the Deck. She has developed a strong ~~paranoia~~ awareness of the presence of the Gods and sense for what the Gods could want from her and those who she reads the Deck for.  
   
 Looking for work now that she's no longer tied to the Long Patrol.
-Willing to team up with any group that her **Deck of Dynarths** points her towards.
+Willing to team up with any group that her [[Deck of Dynarths]] points her towards.
 
 ###### Key Notes:
-- Owns a **Deck of Dynarths**, of which she allows to dictate her life of her own volition.
+- Owns a [[Deck of Dynarths]], of which she allows to dictate her life of her own volition.
+- Believes that all Gods have valid things to say and that no one is more important than the other [^1].
+	- Despite this, she does prefer [[The Weaver]] above the others.
 
 ###### Strengths:
 - 
@@ -56,4 +58,5 @@ Willing to team up with any group that her **Deck of Dynarths** points her towar
 - 
 
 ###### Relationships:
-- 
+
+[^1]: [[Session 9]]

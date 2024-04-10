@@ -7,9 +7,8 @@ age:
 affiliations:
   - "[[The Long Patrol]]"
 aliases:
-  - Bruce
   - Brusay
-  - Buck
+  - Bucky
 ---
 ## Appearance
 ![[img-Brusay.png|400]]
@@ -38,8 +37,8 @@ or
 ---
 
 ## Description
+
 Half-Elf Ranger
-Little mustache, clean shaven otherwise
 
 ###### Key Notes:
 - 
@@ -51,4 +50,4 @@ Little mustache, clean shaven otherwise
 - 
 
 ###### Relationships:
-- 
+- Oversees [[DaVinci]] and [[Hattie Thornborne|Hattie]]

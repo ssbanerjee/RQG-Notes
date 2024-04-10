@@ -37,7 +37,8 @@ Sorcerer, Wild magic
 
 
 ###### Key Notes:
-- 
+- Believes in [[The Traveler]].
+- Very interested in what happened with all the Gods
 
 ###### Strengths:
 - 

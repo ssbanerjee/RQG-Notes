@@ -2,15 +2,12 @@
 type: Character
 world: Brao'Drana
 campaign: Severance
-race: Human
+race: 
 age: 
-affiliations: 
-god: 
+affiliations:
+  - "[[Whispering Tides Inn]]"
 aliases:
 ---
-> [!Fail]- DECEASED
-> Dies in [[B04 - Goblin Camp|the goblin camp]] as [[Spudris Shadowsong|Spud]] viscously mocked her to death.
-
 ## Appearance
 
 
@@ -18,6 +15,7 @@ aliases:
 
 ## Description
 
+Owner of the [[Whispering Tides Inn]].
 
 ###### Key Notes:
 - 

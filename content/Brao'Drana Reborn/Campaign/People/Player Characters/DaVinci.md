@@ -11,8 +11,11 @@ aliases:
 ## Appearance
 ![[img-DaVinci.png|400]]
 - 5'4"
-- Big bushy 3-section braided beard
-- Covered in tattoos, dwarvish runes
+- Stocky and sturdy build.
+- Big brown bushy 3-section braided beard
+- Covered in tattoos, dwarvish runes visible on arms
+- Holding two light warhammers and a rucksack
+^appearance
 
 ```
 ai prompt

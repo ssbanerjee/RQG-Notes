@@ -43,7 +43,7 @@ alignment: Neutral
 class: Paladin 3
 subclass: Oath of Vengeance
 ac: 17
-hp: 26
+hp: 35
 speed: 25 ft.
 stats: [17, 12, 16, 12, 8, 14]
 languages: Common, Dwarvish
@@ -60,30 +60,30 @@ race: Human
 alignment: Neutral
 class: Sorcerer 3
 subclass: Wild Magic
-ac: 
-hp: 
+ac: 13
+hp: 23
 speed: 30 ft.
-stats: []
+stats: [12, 10, 14, 12, 15, 18]
 languages: Common
 proficiency: "+2"
-passives: [-, -, -]
+passives: [12, 11, 12]
 ```
 ^Dex
 
 ```statblock
-name: [[Hattie Thornborn]]
-image: [[img-Hattie_Thornborn.png]]
+name: [[Hattie Thornborne]]
+image: [[img-Hattie_Thornborne.png]]
 layout: Player
 race: Dwarf
 alignment: Neutral
 class: Barbarian 3
-ac: 
-hp: 
+ac: 14 
+hp: 38
 speed: 25 ft.
-stats: []
+stats: [16, 12, 17, 10, 13, 11]
 languages: Common
 proficiency: "+2"
-passives: [-, -, -]
+passives: [11, 10, 10]
 ```
 ^Hattie
 

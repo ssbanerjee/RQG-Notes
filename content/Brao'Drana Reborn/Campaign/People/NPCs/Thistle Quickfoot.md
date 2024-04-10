@@ -2,17 +2,19 @@
 type: Character
 world: Brao'Drana
 campaign: Severance
-race: Gnome
+race: 
 age: 
 affiliations:
-  - Thorn & Petal
-god: 
+  - "[[Salty Mermaid Inn]]"
 aliases:
 ---
-
 ## Appearance
 
 
 ---
 
 ## Description
+
+Very upbeat, ray of sunshine.
+
+First appears in [[Session 9]].
