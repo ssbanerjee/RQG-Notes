@@ -2,8 +2,8 @@
 type: Character
 world: Brao'Drana
 campaign: Severance
-race: 
-age: 
+race: Human
+age: "15"
 affiliations: 
 aliases:
   - O' Magic One
@@ -17,17 +17,17 @@ aliases:
 - 5'9"
 ```
 ai prompt
-+: female, brown hair, opal eyes, pale skin, half body, majestic
++: male teenager, short brown hair, opal eyes, pale skin, half body, majestic
 ```
 ---
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-|     |     |     |     |     |     |
+| +1  | +0  | +2  | +1  | +2  | +4  |
 
 | Passive Perception | Passive Investigation | Passive Insight |
 | :----------------: | :-------------------: | :-------------: |
-|                    |                       |                 |
+|         12         |          11           |       12        |
 
 ---
 
