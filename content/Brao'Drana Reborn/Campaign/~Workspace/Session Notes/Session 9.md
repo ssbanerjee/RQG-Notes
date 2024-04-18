@@ -22,7 +22,6 @@ date: 2024-04-09T19:30:00
 
 > [!Summary] Session Summary
 > Two years have passed since the unfortunate events at the [[B04 - Goblin Camp|goblin camp]] off the road to [[Berea]]. Due to scrutiny being thrown at [[The Long Patrol]] for allowing such a tragedy to happen, the faction has been struggling to find new members as of late. [[DaVinci]], [[Hattie Thornborne|Hattie]], and [[Lt. Buckminster Brusay d'Babincock]] are members of [[The Long Patrol]] that have returned from an unsuccessful trip to [[The Tripalium]] at [[Whiteshore]]. They find themselves in the harbor town of [[Brisay]]. [[Lt. Buckminster Brusay d'Babincock|Brusay]] decides the group should head to the [[Salty Mermaid Inn]] to "find easy targets" for recruitment. Elsewhere, by a [[Temple on a Hill]] near the town, [[Vino Vangard|Vino]], a follower of [[Deck of Dynarths|Dynarths]], follows her Deck to [[Anjali]], whom she finds staring at the stars. After a brief conversation with a [[Middle aged woman|middle aged woman]] from the Temple, [[Vino Vangard|Vino]] states that [[The Weaver]] is now guiding her and [[Anjali]] to the [[Salty Mermaid Inn]]. Inside the Inn, [[Sephirah Dieldiran|Sephirah]] and [[Occisus Verus Amare|Tacetus]] primarily keep to themselves. A tall dragonborn named [[Astra]] wargs [[Sephirah Dieldiran|Sephirah]] of strange going-ons in the area, in particular the fact that kobolds have been harassing the farmers of the North Pasture, but no one knows why yet. [[Occisus Verus Amare|Tacetus]], 15 drinks in and inspired by an incredible concoction of [[Pippin Gearspark]], lumbers over to a group of dwarves (+1 human) and converses with them. Finally, Dex, barrelling in from the north, covered in grime and earth, catches the eye of the [[Night's Watch]] stationed up there. After some talks of the Gods with [[Sister Nicole]], [[Dex Elderflower|Dex]] decides to head over to the [[Salty Mermaid Inn]] to turn in for the night. Now we head over to the Inn as we find all our various adventurers gathering together for the first time. 
-
 ^summary
 
 ## Recap of last session
@@ -33,13 +32,13 @@ date: 2024-04-09T19:30:00
 ## Log
 
 > [!Note] The guards of [[Whiteshore]] were able to defeat the goblin camp and rescue the remaining adventurers still trapped a few weeks later.
-[[Yenna]] dies in prison camp as [[Spudris Shadowsong|Spud]] viscously mocked her to death.
-[[Larimar Laguna|Lar]] goes on hunger strike as they sing the songs of their people, driving the goblins insane. Convinces the goblins that they should find their own ingredients to consume themselves with, and then convince the young goblin to let them go.
-[[Larimar Laguna|Lar]] and [[Spudris Shadowsong|Spud]] survive.
+> [[Yenna]] dies in prison camp as [[Spudris Shadowsong|Spud]] viscously mocked her to death.
+> [[Larimar Laguna|Lar]] goes on hunger strike as they sing the songs of their people, driving the goblins insane. Convinces the goblins that they should find their own ingredients to consume themselves with, and then convince the young goblin to let them go.
+> [[Larimar Laguna|Lar]] and [[Spudris Shadowsong|Spud]] survive.
 
 > [!Info] 2 Years have passed
-Year 48 - post Severance
-55 years since [[Mizzerene]]'s death
+> Year 48 - post Severance
+> 55 years since [[Mizzerene]]'s death
 
 ---
 
