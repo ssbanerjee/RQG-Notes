@@ -30,7 +30,7 @@ date: 2024-04-18T19:42:00
 The long patrol members approach the [[Salty Mermaid Inn]].
 [[Lt. Buckminster Brusay d'Babincock|Brusay]] enters first, noticing the door with carvings of the kraken, deepshark, and other mythical creatures of the sea.
 Inside, they notice a painting of a somewhat risqué mermaid holding a cocktail.
-[[Hattie Thornborne|Hattie]] is memorized by the door, much to [[Lt. Buckminster Brusay d'Babincock|Brusay]] and [[DaVinci]]'s dismay as they want to get inside. She takes particular notice to the seafolk and delicate carvings.
+[[Hattie Thornborne|Hattie]] is mesmerized by the door, much to [[Lt. Buckminster Brusay d'Babincock|Brusay]] and [[DaVinci]]'s dismay as they want to get inside. She takes particular notice to the seafolk and delicate carvings.
 [[DaVinci]] and [[Lt. Buckminster Brusay d'Babincock|Brusay]] are uninterested and head inside without her.
 [[Lt. Buckminster Brusay d'Babincock|Brusay]] walks in first on what could be described as a party and is excited by the prospect of easy targets.
 ~~[[Lt. Buckminster Brusay d'Babincock|Brusay]] has his dick out with [[DaVinci]], they're getting very excited.~~
