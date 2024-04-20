@@ -39,6 +39,8 @@ Sorcerer, Wild magic
 ###### Key Notes:
 - Believes in [[The Traveler]].
 - Very interested in what happened with all the Gods
+- Likes to draw different things that he likes or finds interesting in a town. An artist at heart.
+- Agrees to join [[The Long Patrol]] [^1]
 
 ###### Strengths:
 - 
@@ -48,3 +50,5 @@ Sorcerer, Wild magic
 
 ###### Relationships:
 - 
+
+[^1]: [[Session 10]]

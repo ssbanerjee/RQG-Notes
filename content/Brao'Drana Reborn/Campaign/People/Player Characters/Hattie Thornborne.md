@@ -9,6 +9,7 @@ affiliations:
 aliases:
   - Hattie
   - Rook
+  - Srg. Brows
 ---
 ## Appearance
 ![[img-Hattie_Thornborne.png|400]]
@@ -39,13 +40,14 @@ ai prompt
 
 ## Description
 
-A drill sargent of [[The Long Patrol]].
+A sergeant of [[The Long Patrol]].
 Hattie struggles to convey emotion and is very deadpan in their delivery.
 Despite this, they seem to enjoy some of the common things, such as shopping and touring[^1].
 
 ###### Key Notes:
 - They have no eyebrows, opting instead to draw their emotions depending on the mood.
-- Likes to get travel and get souvenirs [^1]. 
+- Likes to get travel and get souvenirs [^1].
+- Has an emblem of a dragon to signify their rank in [[The Long Patrol]] [^2]
 
 ###### Strengths:
 - 
@@ -57,3 +59,4 @@ Despite this, they seem to enjoy some of the common things, such as shopping and
 - Travels with [[Lt. Buckminster Brusay d'Babincock|Bucky]] and [[DaVinci]] as part of [[The Long Patrol]]
 
 [^1]: [[Session 9]]
+[^2]: [[Session 10]]

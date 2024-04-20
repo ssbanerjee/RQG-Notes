@@ -50,6 +50,7 @@ Willing to team up with any group that her [[Deck of Dynarths]] points her towar
 - Owns a [[Deck of Dynarths]], of which she allows to dictate her life of her own volition.
 - Believes that all Gods have valid things to say and that no one is more important than the other [^1].
 	- Despite this, she does prefer [[The Weaver]] above the others.
+	- [[Nerull]] is their identifying God [^2].
 
 ###### Strengths:
 - 
@@ -60,3 +61,4 @@ Willing to team up with any group that her [[Deck of Dynarths]] points her towar
 ###### Relationships:
 
 [^1]: [[Session 9]]
+[^2]: [[Session 10]]

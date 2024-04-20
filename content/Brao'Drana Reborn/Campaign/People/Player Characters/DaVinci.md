@@ -40,7 +40,8 @@ Dwarven Paladin
 Long Patrol
 
 ###### Key Notes:
-- Worships Tyr
+- Worships Try
+- Does not like people touching their beard.
 
 ###### Strengths:
 - 

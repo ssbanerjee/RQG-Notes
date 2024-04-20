@@ -7,6 +7,7 @@ age: "23"
 affiliations: 
 aliases:
   - Sephirah
+  - Purple Princess
 ---
 ## Appearance
 ![[img-Sephira_Dieldiran.png|400]]
@@ -38,10 +39,12 @@ ai prompt
 ## Description
 Pure blood elf, Warlock
 Noble birth
+From the Elven city of [[Loradriel]]
 
 ###### Key Notes:
 - Likes people watching
 - Frequents in gossip
+- Agrees to join [[The Long Patrol]] [^1]
 
 ###### Strengths:
 - 
@@ -51,3 +54,5 @@ Noble birth
 
 ###### Relationships:
 - 
+
+[^1]: [[Session 10]]
