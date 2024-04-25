@@ -16,7 +16,11 @@ date: 2024-04-18T19:42:00
 ---
 
 > [!Summary] Session Summary
-> The Lore Master has a stroke trying to interpret the recording from this night.
+> ~~The Lore Master has a stroke trying to interpret the recording from this night.~~
+> 
+> The night consisted of many drinks, long talks of Gods and men, and surprising revelations. [[The Long Patrol]] members, alongside newfound companions [[Anjali]] and [[Vino Vangard|Vino]], and lastly our vagrant soul, [[Dex Elderflower|Dex]], all meetup at the [[Salty Mermaid Inn|Salty Mermaid]], where they then meet [[Sephirah Dieldiran|Sephirah]] and [[Occisus Verus Amare|Tacetus]]. [[Lt. Buckminster Brusay d'Babincock|Brusay]] starts a recruiting campaign in an attempt to gather interest for prospecting members of [[The Long Patrol]], going as far as even paying the tab for the entire bar (a whopping 3GP!). After partaking in much of the "Nectar of the Gods", [[DaVinci]] and [[Lt. Buckminster Brusay d'Babincock|Brusay]] get in a heated conversation about [[Tyr]] as their opinions clashed heavily. [[Vino Vangard|Vino]] interjects and offers to read the [[Deck of Dynarths]] for [[DaVinci]] to see what the Gods say about him. After stating that [[DaVinci]] is a man of vengeance and is heavily influenced by Fate, [[Occisus Verus Amare|Tacetus]] and the other [[The Long Patrol|Long Patrol]] members scoff and wave it off as nonsense. Despite this, [[Dex Elderflower|Dex]] is convinced to join [[The Long Patrol]], with [[Sephirah Dieldiran|Sephirah]] tagging along mainly for their own entertainment. To wrap up the evening, [[Lt. Buckminster Brusay d'Babincock|Brusay]] initiates [[Dex Elderflower|Dex]] by having them recite the [[The Long Patrol#^Oath|Long Patrol Oath]]:
+> > [!Quote] The Long Patrol Oath
+> > "You must love those who are not loved. You must protect those who are not protected. And you must destroy those who do not fuck."
 ^summary
 
 ## Recap of last session
