@@ -183,5 +183,5 @@ The group wraps up the investigation and decides to head back to the Inn to tell
 ____
  
 
-| Previous Session: [[Session 10]] | Next Session: |
-| -------------------------------- | ------------- |
+| Previous Session: [[Session 10]] | Next Session: [[Session 12]] |
+| -------------------------------- | ---------------------------- |
