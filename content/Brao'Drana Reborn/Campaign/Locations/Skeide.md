@@ -10,7 +10,7 @@ Nestled within the rolling hills and lush green fields, lies the idyllic small f
 
 Houses the famous tavern, the [[Thorn & Petal]].
 Has a shopping street called [Makers Row], making up the majority of the town.
-Just outside of town, there is a large tower called [[Temple of the Nine]].
+Just outside of town, there is a large tower called [[Temple of The Nine]].
 
 #Campaign/locations
 

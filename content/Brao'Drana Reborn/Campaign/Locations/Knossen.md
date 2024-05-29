@@ -1,0 +1,32 @@
+---
+type: Location
+world: Brao'Drana
+campaign: Severance
+continent:
+---
+
+## Description
+
+
+---
+
+## Map
+
+```leaflet
+id: map-Vahlenar
+image: [[map-Vahlenar.jpg]]
+height: 400px
+lat: 62
+long: 85
+minZoom: 9
+maxZoom: 10
+defaultZoom: 10
+unit: miles
+scale: 1
+darkMode: false
+```
+
+---
+
+### Key Locations/Characters
+

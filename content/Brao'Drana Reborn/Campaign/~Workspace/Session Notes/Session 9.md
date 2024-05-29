@@ -21,7 +21,7 @@ date: 2024-04-09T19:30:00
 ---
 
 > [!Summary] Session Summary
-> Two years have passed since the unfortunate events at the [[B04 - Goblin Camp|goblin camp]] off the road to [[Berea]]. Due to scrutiny being thrown at [[The Long Patrol]] for allowing such a tragedy to happen, the faction has been struggling to find new members as of late. [[DaVinci]], [[Hattie Thornborne|Hattie]], and [[Lt. Buckminster Brusay d'Babincock]] are members of [[The Long Patrol]] that have returned from an unsuccessful trip to [[The Tripalium]] at [[Whiteshore]]. They find themselves in the harbor town of [[Brisay]]. [[Lt. Buckminster Brusay d'Babincock|Brusay]] decides the group should head to the [[Salty Mermaid Inn]] to "find easy targets" for recruitment. Elsewhere, by a [[Temple on a Hill]] near the town, [[Vino Vangard|Vino]], a follower of [[Deck of Dynarths|Dynarths]], follows her Deck to [[Anjali]], whom she finds staring at the stars. After a brief conversation with a [[Middle aged woman|middle aged woman]] from the Temple, [[Vino Vangard|Vino]] states that [[The Weaver]] is now guiding her and [[Anjali]] to the [[Salty Mermaid Inn]]. Inside the Inn, [[Sephirah Dieldiran|Sephirah]] and [[Occisus Verus Amare|Tacetus]] primarily keep to themselves. A tall dragonborn named [[Astra]] wargs [[Sephirah Dieldiran|Sephirah]] of strange going-ons in the area, in particular the fact that kobolds have been harassing the farmers of the North Pasture, but no one knows why yet. [[Occisus Verus Amare|Tacetus]], 15 drinks in and inspired by an incredible concoction of [[Pippin Gearspark]], lumbers over to a group of dwarves (+1 human) and converses with them. Finally, Dex, barrelling in from the north, covered in grime and earth, catches the eye of the [[Night's Watch]] stationed up there. After some talks of the Gods with [[Sister Nicole]], [[Dex Elderflower|Dex]] decides to head over to the [[Salty Mermaid Inn]] to turn in for the night. Now we head over to the Inn as we find all our various adventurers gathering together for the first time. 
+> Two years have passed since the unfortunate events at the [[B04 - Goblin Camp|goblin camp]] off the road to [[Berea]]. Due to scrutiny being thrown at [[The Long Patrol]] for allowing such a tragedy to happen, the faction has been struggling to find new members as of late. [[DaVinci]], [[Hattie Thornborne|Hattie]], and [[Lt. Buckminster Brusay d'Babincock]] are members of [[The Long Patrol]] that have returned from an unsuccessful trip to [[The Tripalium]] at [[Whiteshore]]. They find themselves in the harbor town of [[Brisay]]. [[Lt. Buckminster Brusay d'Babincock|Brusay]] decides the group should head to the [[Salty Mermaid Inn]] to "find easy targets" for recruitment. Elsewhere, by a [[Temple of The Weaver]] near the town, [[Vino Vangard|Vino]], a follower of [[Deck of Dynarths|Dynarths]], follows her Deck to [[Anjali]], whom she finds staring at the stars. After a brief conversation with a [[Middle aged woman|middle aged woman]] from the Temple, [[Vino Vangard|Vino]] states that [[The Weaver]] is now guiding her and [[Anjali]] to the [[Salty Mermaid Inn]]. Inside the Inn, [[Sephirah Dieldiran|Sephirah]] and [[Occisus Verus Amare|Tacetus]] primarily keep to themselves. A tall dragonborn named [[Astra]] wargs [[Sephirah Dieldiran|Sephirah]] of strange going-ons in the area, in particular the fact that kobolds have been harassing the farmers of the North Pasture, but no one knows why yet. [[Occisus Verus Amare|Tacetus]], 15 drinks in and inspired by an incredible concoction of [[Pippin Gearspark]], lumbers over to a group of dwarves (+1 human) and converses with them. Finally, Dex, barrelling in from the north, covered in grime and earth, catches the eye of the [[Night's Watch]] stationed up there. After some talks of the Gods with [[Sister Nicole]], [[Dex Elderflower|Dex]] decides to head over to the [[Salty Mermaid Inn]] to turn in for the night. Now we head over to the Inn as we find all our various adventurers gathering together for the first time. 
 ^summary
 
 ## Recap of last session
@@ -71,13 +71,13 @@ Insignia: Gold wings, Brown mountains, Grey sword.
 ---
 
 [[Anjali]] is somewhat lost, and looking for inspiration.
-Goes to the [[Temple on a Hill]] in [[Brisay]].
-[[Temple on a Hill|Temple]] grounds lit with low torches.
+Goes to the [[Temple of The Weaver]] in [[Brisay]].
+[[Temple of The Weaver|Temple]] grounds lit with low torches.
 Hears someone approach, but pays them no mind.
 [[Vino Vangard|Vino]] approaches, consulting her [[Deck of Dynarths|cards]].
 [[Vino Vangard|Vino]] flips their [[Deck of Dynarths|cards]] as [[Anjali]] explains talks about the stars.
 
-> [!Important] Constellation: THE FUCKING IGAUANA (ouroboros like)
+> [!Important] Constellation: [[Found Constellations#Fucking Iguanas|Fucking Iguanas]] (ouroboros like)
 
 [[Vino Vangard|Vino]] says [[The Weaver]] guided her to [[Anjali]] and suggest they go to drink wine.
 [[Anjali]] doesn't even know what wine is, but agrees to go.
@@ -169,7 +169,7 @@ Claims they've been running from a lot things (Family), but didn't do anything.
 [[Dex Elderflower|Dex]] is very interested in what happened with [[The War of the Ancients]].
 Pulls out a bunch of books related to the Gods.
 Middle aged woman, [[Sister Nicole]], shows up and shows interest.
-Advises [[Dex Elderflower|Dex]] to go to the [[Temple on a Hill]] the next day when she isn't on shift.
+Advises [[Dex Elderflower|Dex]] to go to the [[Temple of The Weaver]] the next day when she isn't on shift.
 
 ---
 

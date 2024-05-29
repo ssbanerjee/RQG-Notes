@@ -5,9 +5,9 @@ campaign: Severance
 race: 
 age: 
 affiliations:
-  - "[[Temple of the Nine]]"
+  - "[[Temple of The Nine]]"
 god: 
-aliases:
+aliases: 
 ---
 
 ## Appearance

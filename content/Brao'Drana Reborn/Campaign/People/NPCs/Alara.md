@@ -6,7 +6,8 @@ race:
 age: 
 affiliations:
   - "[[Temple of The Weaver]]"
-aliases: 
+aliases:
+  - Blacksmith
 ---
 ## Appearance
 
@@ -15,5 +16,4 @@ aliases:
 
 ## Description
 
-
-First appears in [[Session 9]]
+A female acolyte of the [[Temple of The Weaver]]

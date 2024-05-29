@@ -4,7 +4,8 @@ world: Brao'Drana
 campaign: Severance
 race: 
 age: 
-affiliations: 
+affiliations:
+  - "[[Salty Mermaid Inn]]"
 aliases:
 ---
 ## Appearance

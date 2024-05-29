@@ -4,15 +4,15 @@ world: Brao'Drana
 campaign: Severance
 race: 
 age: 
-affiliations:
-  - "[[Salty Mermaid Inn]]"
+affiliations: 
 aliases:
 ---
 ## Appearance
 
-
----
+N/A
 
 ## Description
 
-Owner of the [[Salty Mermaid Inn|Salty Mermaid]].
+A recluse who lives near the docs of [[Brisay]].
+
+First appears in [[Session 11]].

@@ -5,8 +5,8 @@ campaign: Severance
 race: 
 age: 
 affiliations:
-  - "[[Temple on a Hill]]"
-aliases:
+  - "[[Temple of The Weaver]]"
+aliases: 
 ---
 ## Appearance
 

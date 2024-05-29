@@ -6,14 +6,14 @@ race:
 age: 
 affiliations:
   - "[[Temple of The Weaver]]"
-aliases: 
+aliases:
 ---
 ## Appearance
 
 
 ---
 
+
 ## Description
 
-
-First appears in [[Session 9]]
+A male acolyte of the [[Temple of The Weaver]].

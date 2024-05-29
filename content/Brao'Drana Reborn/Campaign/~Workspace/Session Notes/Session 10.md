@@ -53,7 +53,7 @@ The Long Patrol members go to the bar, and try to read the room for a good candi
 
 They find themselves back at the [[Night's Watch]] and they inform her on where to go.
 [[Dex Elderflower|Dex]] walks by the [[Whispering Tides Inn]], but it is quiet.
-They find a guidestone that is etched in Common; a prayer to the fields given to [[The Yeoman]].
+They find a guidestone that is etched in Common; a prayer to the fields given to [[The Yeoman]]. ^guidestone
 > [!Quote] "Hard labor, simple life, sharp blade, softer."
 
 [[Dex Elderflower|Dex]] wholly uninterested.
