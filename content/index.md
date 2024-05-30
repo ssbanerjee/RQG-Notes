@@ -29,3 +29,4 @@ Welcome to the campaign of [[Brao'Drana Reborn]], as we  journey through [[The N
 ###### Helpful links
 - [[~Rules|Common Rules]]
 - [[Vahlenar Map|Map of Vahlenar]]
+- [Session Recordings](https://www.dropbox.com/scl/fo/2faksi4qfmnse3cg1n943/AD2QrN7SQNXCfdhe6wgBazw?rlkey=9ws8uyt5n2h74z6fthj6jdhw4&st=1b1p5ktx&dl=0)
