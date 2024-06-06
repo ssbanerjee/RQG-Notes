@@ -7,6 +7,7 @@ age:
 affiliations:
   - "[[Salty Mermaid Inn]]"
 aliases:
+  - Leerial
 ---
 ## Appearance
 
