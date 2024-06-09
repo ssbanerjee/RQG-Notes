@@ -17,7 +17,12 @@ date: 2024-05-30T20:00:00
 
 
 > [!Summary] Session Summary
-
+> The group meets up in the [[Salty Mermaid Inn|Inn]] to discuss their findings of the day. [[Anjali]] not-so-discretely announces that the [[Alara|Blacksmith]] is missing and likely in danger due to the blood found in their ransacked home. [[Vino Vangard|Vino]] convinces [[Anjali]] to keep quiet and calms the room down.
+> After some discussion about what to do, the group is unable to come to a conclusion. [[Leerial Windwhisper]], the owner of the [[Salty Mermaid Inn|Salty Mermaid]], steps into the conversation after overhearing about the events of the [[Alara|Blacksmith]]'s house and the rumors of [[Knossen]]. They inform the group that they're way in over their heads to be talking about such topics, saying they should leave this to the professionals. Some inquiry with [[Leerial Windwhisper|Leerial]] has revealed that the main force of [[The Long Patrol]] likely already know about the situation.
+> [[Leerial Windwhisper|Leerial]] then proposes a different path and asks the group to take care of some Kobolds nearby that have been hovering around the Northern Pasture. [[Lt. Buckminster Brusay d'Babincock|Brusay]] gets [[Leerial Windwhisper|Leerial]] to sign a contract obligating her to pay everyone 50sp per Kobold ear returned. [[The Long Patrol]] members, [[Occisus Verus Amare|Tacetus]], [[Vino Vangard|Vino]], and [[Anjali]] all agree to work together to deal with the issue.
+> *Side note: [[Occisus Verus Amare|Tacetus]] has a private "conversation" with [[Leerial Windwhisper|Leerial]] after everyone goes to sleep ;)*
+> After the group gathers supplies, they set off for the Kobold cave. When they find it, [[Vino Vangard|Vino]] accidentally trips, smashing her staff across the trees as she fell, exclaiming "Oh no, my walking stick!!!" Luckily, the Kobolds on guard are as observant as a sack of rocks and think the noises were made by a strange bird, and head back inside their cave.
+> [[Lt. Buckminster Brusay d'Babincock|Brusay]] then has the group split, sending in the "stealth" group first, consisting of the new recruits/children, lead by [[Hattie Thornborne|Hattie]]. Then, this group is followed by the ranger group ([[Lt. Buckminster Brusay d'Babincock|Brusay]]), covered by the melee group. [[Occisus Verus Amare|Tacetus]] and [[Anjali]] are against this plan of attempting to sneak into the cave and sending the children first, however they eventually relent. Unfortunately, the plan to stealth into the cave in broad daylight backfires as the stealth group is ambushed by the Kobolds who saw them enter the cave, starting a fight.
 ^summary
 
 ## Recap of last session
