@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"f6ebe264f35eaac8","type":"text","text":"![[Player Cards#^Anjali]]","x":-1040,"y":-560,"width":560,"height":680},
-		{"id":"e907d655fc258153","x":-440,"y":-560,"width":560,"height":680,"type":"text","text":"![[Player Cards#^Sephirah]]"},
-		{"id":"378cde0d24b5a9d0","x":-1640,"y":160,"width":560,"height":680,"type":"text","text":"![[Player Cards#^DaVinci]]"},
-		{"id":"15f90f5d3ccf0e64","x":-1040,"y":160,"width":560,"height":680,"type":"text","text":"![[Player Cards#^Tacetus]]"},
-		{"id":"6dab9e0bef270bc1","x":160,"y":160,"width":560,"height":680,"type":"text","text":"![[Player Cards#^Brusay]]"},
-		{"id":"09697eac1351835a","x":-1040,"y":880,"width":560,"height":680,"type":"text","text":"![[Player Cards#^Dex]]"},
-		{"id":"6a1d0604153c7bed","x":-440,"y":880,"width":560,"height":680,"type":"text","text":"![[Player Cards#^Hattie]]"},
-		{"id":"e7339301e7fe939c","x":-440,"y":160,"width":560,"height":680,"type":"text","text":"![[Player Cards#^Vino]]"}
+		{"id":"f6ebe264f35eaac8","type":"text","text":"![[Player Cards#^Anjali]]","x":-1640,"y":-560,"width":560,"height":680},
+		{"id":"e907d655fc258153","type":"text","text":"![[Player Cards#^Sephirah]]","x":-440,"y":-560,"width":560,"height":680},
+		{"id":"e7339301e7fe939c","type":"text","text":"![[Player Cards#^Vino]]","x":-1040,"y":-560,"width":560,"height":680},
+		{"id":"6dab9e0bef270bc1","type":"text","text":"![[Player Cards#^Brusay]]","x":-1640,"y":160,"width":560,"height":680},
+		{"id":"378cde0d24b5a9d0","type":"text","text":"![[Player Cards#^DaVinci]]","x":-1040,"y":160,"width":560,"height":680},
+		{"id":"15f90f5d3ccf0e64","type":"text","text":"![[Player Cards#^Tacetus]]","x":160,"y":160,"width":560,"height":680},
+		{"id":"6a1d0604153c7bed","type":"text","text":"![[Player Cards#^Hattie]]","x":-440,"y":160,"width":560,"height":680},
+		{"id":"09697eac1351835a","type":"text","text":"![[Player Cards#^Dex]]","x":160,"y":-560,"width":560,"height":680}
 	],
 	"edges":[]
 }

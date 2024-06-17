@@ -13,9 +13,6 @@ characters:
   - "[[Hattie Thornborne|Hattie]]"
 date: 2024-05-30T20:00:00
 ---
-# *W.I.P. Notes are still in progress*
-
-
 > [!Summary] Session Summary
 > The group meets up in the [[Salty Mermaid Inn|Inn]] to discuss their findings of the day. [[Anjali]] not-so-discretely announces that the [[Alara|Blacksmith]] is missing and likely in danger due to the blood found in their ransacked home. [[Vino Vangard|Vino]] convinces [[Anjali]] to keep quiet and calms the room down.
 > After some discussion about what to do, the group is unable to come to a conclusion. [[Leerial Windwhisper]], the owner of the [[Salty Mermaid Inn|Salty Mermaid]], steps into the conversation after overhearing about the events of the [[Alara|Blacksmith]]'s house and the rumors of [[Knossen]]. They inform the group that they're way in over their heads to be talking about such topics, saying they should leave this to the professionals. Some inquiry with [[Leerial Windwhisper|Leerial]] has revealed that the main force of [[The Long Patrol]] likely already know about the situation.

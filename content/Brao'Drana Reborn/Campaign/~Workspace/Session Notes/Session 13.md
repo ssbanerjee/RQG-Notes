@@ -31,5 +31,5 @@ date: 2024-06-06T19:56:00
 
 ____
 
-| Previous Session: | Next Session: |
-| ----------------- | ------------- |
+| Previous Session: [[Session 12]] | Next Session: [[Session 14]] |
+| -------------------------------- | ---------------------------- |
