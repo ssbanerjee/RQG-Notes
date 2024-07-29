@@ -20,4 +20,4 @@ A well-travelled, funny man. Claims he knew the Heroes of the Third Age.
 
 The middle waged woman at the [[Temple of The Weaver]] suggests Anjali seeks Brother Thimul out if he wants to look at the stars [^1].
 
-[^1] [[Session 9]]
+[^1]: [[Session 9]]
