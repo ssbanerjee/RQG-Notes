@@ -28,6 +28,7 @@ Welcome to the campaign of [[Brao'Drana Reborn]], as we  journey through [[The N
 - [[Session 12]]
 - [[Session 13]]
 - [[Session 14]]
+- [[Session 15]]
 
 ###### Helpful links
 - [[~Rules|Common Rules]]
